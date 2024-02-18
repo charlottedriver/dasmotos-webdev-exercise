@@ -13,3 +13,8 @@ h2 {
     font-weight: bold;
     color: white;
 }
+
+.Section2,
+h2 {
+    background-color: mediumspringgreen;
+}
