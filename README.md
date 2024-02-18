@@ -1,1 +1,2 @@
-# dasmotos-webdev-exercise
+# "Dasmoto's Arts & Crafts" Project
+This project is part of the Codecademy course "Build a Website With HTML, CSS, And GitHub". The goal of this project is to create a simple website for Dasmoto's Art & Crafts.
